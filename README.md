@@ -1,2 +1,2 @@
-# Python-Mysql-Database-
+# Python-MySQL-Database-
 Creates a database, tables, attributes. Inserts Data into the specific DB and Tables
